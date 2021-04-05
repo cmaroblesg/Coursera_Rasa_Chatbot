@@ -28,4 +28,4 @@ The hands on project on Create Your First Chatbot with Rasa and Python is divide
 * **Task 8:** Slots
 * **Task 9:** Actions
 
-## [Activity](./Files/process.md)
+## [Activity](./process.md)
