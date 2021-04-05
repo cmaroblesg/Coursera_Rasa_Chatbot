@@ -90,3 +90,45 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+- intent: find_time_zone
+  examples: |
+    - can you tell the time?
+    - what time is it?
+    - could you tell me the time?
+    - I need you to find a time zone
+    - Can you find me a time zone?
+    - tell me the time zone
+
+- intent: find_time_zone_for_location
+  examples: |
+    - What is the time zone of London?
+    - time zone of Lisbon
+    - Do you know the time zone of Berlin?
+    - I need to know the time zone of Mexico
+    - Oslo time zone
+    - what is the time in Prague
+
+- intent: city_info
+  examples: |
+    - London
+    - San Francisco
+    - Toronto
+    - Mexico City
+    - New Delhi
+    - Auckland
+    - Oslo
+
+- intent: thanks
+  examples: |
+    - thank you
+    - thanks
+    - great, thanks
+    - thnks
+
+- intent: boss
+  examples: |
+    - Who is your boss?
+    - Who is your father?
+    - Boss?
+    - Dad?
