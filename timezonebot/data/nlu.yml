@@ -102,22 +102,22 @@ nlu:
 
 - intent: find_time_zone_for_location
   examples: |
-    - What is the time zone of London?
-    - time zone of Lisbon
-    - Do you know the time zone of Berlin?
-    - I need to know the time zone of Mexico
-    - Oslo time zone
-    - what is the time in Prague
+    - What is the time zone of [London](city)?
+    - time zone of [Lisbon](city)
+    - Do you know the time zone of [Berlin](city)?
+    - I need to know the time zone of [Mexico](city)
+    - [Oslo](city) time zone
+    - what is the time in [Prague](city)
 
 - intent: city_info
   examples: |
-    - London
-    - San Francisco
-    - Toronto
-    - Mexico City
-    - New Delhi
-    - Auckland
-    - Oslo
+    - [London](city)
+    - [San Francisco](city)
+    - [Toronto](city)
+    - [Mexico City](city)
+    - [New Delhi](city)
+    - [Auckland](city)
+    - [Oslo](city)
 
 - intent: thanks
   examples: |

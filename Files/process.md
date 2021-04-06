@@ -16,4 +16,6 @@ Follow the instructions and train the model.
 ## Special commands
 There are some special useful commands that are needed:
 * **rasa shell** this command initialize the chatbot, just open the chatbot directory and run in terminal
-* **rasa shell nlu** this commenad initilize the NLU (Natural Language Unit) to identify the intents related
+* **rasa shell nlu** this command initialize the NLU (Natural Language Unit) to identify the intents related
+* **rasa train** Use this command to train the model
+* **rasa run actions** this command initialize the webhook.
